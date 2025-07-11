@@ -72,7 +72,7 @@ Each line contains:
 
 ---
 
-## 🧠 Example Output
+## Example Output
 
 ```
 Data loaded successfully.
@@ -84,14 +84,14 @@ y = 1.957816 * x + 0.054321
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Java JDK 8 or higher
 - A CSV file with training data located at `data/training_data.csv`
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Compile the program:**
    ```bash
